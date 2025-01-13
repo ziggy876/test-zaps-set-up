@@ -89,7 +89,3 @@ This repository contains the following key files:
 For more details, refer to the [NIP-05 Specification](https://github.com/nostr-protocol/nips/blob/master/05.md) and [LNURL Documentation](https://github.com/lnurl/luds).
 
 *Note: Replace placeholders like `yourdomain.com` and `username` with your actual domain and username.*
-
----
-
-Let me know if there’s anything else you’d like to adjust!
