@@ -25,6 +25,9 @@ This repository contains the following key files:
 ### 2. Modify Configuration Files
 #### NIP-05 Identifier
    - Edit `.well-known/nostr.json` to include your Nostr public key and desired identifier.
+   - **Important**: Your Nostr public key must be converted to a Hex key before using it in the `nostr.json` file.  
+     - To convert your public key to Hex, visit [https://damus.io/key/](https://damus.io/key/).  
+     - Enter your Nostr public key in the first box, and the Hex key will be displayed in the second box. Use this Hex key in your configuration.
 
 #### LNURL Configuration
 1. **Find Your LNURL File**:
