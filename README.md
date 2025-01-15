@@ -1,8 +1,6 @@
 # Personal Domain NIP-05 and LNURL Setup
 
-https://www.youtube.com/watch?v=wJ32zo96LkU
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wJ32zo96LkU?si=k8C0ZqzsCI_Se7NL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Watch Video Here: https://www.youtube.com/watch?v=wJ32zo96LkU
 
 This guide explains how to configure NIP-05 identifiers and LNURL for your domain using only DNS settings and the files in this GitHub repository without any command-line interactions.
 
