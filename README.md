@@ -1,6 +1,8 @@
 # Personal Domain NIP-05 and LNURL Setup
 
-This guide explains how to configure NIP-05 identifiers and LNURL for your personal domain using only DNS settings and the files in this GitHub repository, without any command-line interactions.
+https://www.youtube.com/watch?v=wJ32zo96LkU
+
+This guide explains how to configure NIP-05 identifiers and LNURL for your domain using only DNS settings and the files in this GitHub repository without any command-line interactions.
 
 ## Prerequisites
 
